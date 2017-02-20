@@ -1,0 +1,235 @@
+﻿<project version="2.2" name="Verkkopankki" ID="AE1C9639-1E24-44E6-8C91-A2E741673E20">
+  <params>
+    <pageParam version="4.4" minAllowVersion="4.3"/>
+    <projectParam version="2.2" minAllowVersion="2.2" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtAndroid" pageSize="(1200,1920)" backgroundColor="4279259770" fontSize="0" fontFamily=""/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <modules>
+    <page name="Kirjautuminen" ID="BD0CCAB2-F724-4456-A54B-3A73DCBA2DC5" expanded="True" code="hAHtj3q9eh" thumbCode="hAHtj3q9eh" status="psWhite">
+      <images>
+        <image key="B38957D1DD25D9AB56F0314624C31EEE.png"/>
+        <image key="532E79E95DDD57ABA206C2D19E9CB7F2.png"/>
+        <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+        <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+      </images>
+    </page>
+    <page name="Päänäkymä" ID="6F7CCCC1-F43A-434A-9F93-4033A322CDAC" expanded="True" code="PhCijoEJwg" thumbCode="PhCijoEJwg" status="psWhite">
+      <images>
+        <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+        <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
+        <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+        <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+        <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+        <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+        <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+        <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+      </images>
+      <page name="Päänäkymä - Lisää tapahtumia" ID="270383F9-E618-4B99-829B-B2C946640C65" expanded="True" code="qxDzQrTzqp" thumbCode="qxDzQrTzqp" status="psWhite">
+        <images>
+          <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
+          <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+          <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
+          <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+          <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+          <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+          <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+          <image key="174DDA6EA0625ECE503B6EAC65F79679.svg"/>
+          <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+          <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+        </images>
+      </page>
+    </page>
+    <page name="Päänäkymä Luotto" ID="87C75412-B741-4C12-A72F-8497798B5047" expanded="True" code="SuTjvXlve1" thumbCode="SuTjvXlve1" status="psWhite">
+      <images>
+        <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+        <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
+        <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+        <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+        <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+        <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+        <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+        <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+      </images>
+      <page name="Päänäkymä Luotto - Lisää tapahtumia" ID="01DAE169-B26D-4F6B-BF46-BE177D1F4644" expanded="True" code="lwTq7oqbXN" thumbCode="lwTq7oqbXN" status="psWhite">
+        <images>
+          <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
+          <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+          <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
+          <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+          <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+          <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+          <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+          <image key="174DDA6EA0625ECE503B6EAC65F79679.svg"/>
+          <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+          <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+        </images>
+      </page>
+    </page>
+    <page name="Uusi Maksu" ID="99CD03DC-7039-4329-93B7-2674B27C45C3" expanded="True" code="iCMNByojJp" thumbCode="eVyf7KB3Rs" status="psWhite">
+      <images>
+        <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+        <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
+        <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+        <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+        <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+        <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+        <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+        <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+      </images>
+      <page name="Vahvista maksu" ID="694CAFFE-5108-45AA-92E2-2C46D242C436" expanded="True" code="KjCnpwrPGo" thumbCode="j4VajeflhU" isLastOpen="True" status="psWhite">
+        <images>
+          <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+          <image key="C3E2977FC40DAEFBC44FD1E53166AF20.svg"/>
+          <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+          <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+          <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+          <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+          <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+          <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+          <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+        </images>
+      </page>
+      <page name="Maksu onnistui" ID="9D5E73F7-E31E-4697-9242-611B6241C7CE" expanded="True" code="I9KixcNI9V" thumbCode="I9KixcNI9V" status="psWhite">
+        <images>
+          <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+          <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+          <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+          <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+          <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+          <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+          <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+        </images>
+      </page>
+    </page>
+    <page name="Hallinta" ID="7C848527-4B31-45A7-8129-683ACD86E1C9" expanded="True" code="Cp57Cn6My6" thumbCode="vbag6hDMrg" status="psWhite">
+      <images>
+        <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+        <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
+        <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+        <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+        <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+        <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+        <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+        <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+      </images>
+      <page name="Yhteystiedot" ID="5CF8C861-A129-4EE7-B4A8-FDE5DA26EE38" expanded="True" code="mylKAij7k9" thumbCode="mylKAij7k9" status="psWhite">
+        <images>
+          <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
+          <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+          <image key="C3E2977FC40DAEFBC44FD1E53166AF20.svg"/>
+          <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+          <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+          <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+          <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+          <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+          <image key="174DDA6EA0625ECE503B6EAC65F79679.svg"/>
+          <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+          <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+        </images>
+        <page name="Muokkaa yhteystietoa" ID="07C65BDD-CB33-495A-B446-DDBAC79CD7DF" expanded="True" code="j4sfUIkECQ" thumbCode="7UTeotcsyK" status="psWhite">
+          <images>
+            <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+            <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+            <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+            <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+            <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+            <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+            <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+          </images>
+        </page>
+        <page name="Uusi yhteystieto" ID="EA9BAA03-FDE0-4419-905E-E7641D61BC7D" expanded="True" code="mPzMFAWvQ7" thumbCode="mPzMFAWvQ7" status="psWhite">
+          <images>
+            <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+            <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+            <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+            <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+            <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+            <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+            <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+          </images>
+        </page>
+      </page>
+    </page>
+    <page name="E-Laskut" ID="3E70FF15-763D-4ABF-92F7-4199A0EE6462" expanded="True" code="Z54Cs8MTCP" thumbCode="Z54Cs8MTCP" status="psWhite">
+      <images>
+        <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
+        <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+        <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+        <image key="C3E2977FC40DAEFBC44FD1E53166AF20.svg"/>
+        <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+        <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+        <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+        <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+        <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+        <image key="174DDA6EA0625ECE503B6EAC65F79679.svg"/>
+        <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+        <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+      </images>
+      <page name="Uusi E-Lasku" ID="06BAB5E6-3030-4C07-AEE5-9663068D2A9E" expanded="True" code="Y7JlB3M3Mo" thumbCode="Y7JlB3M3Mo" status="psWhite">
+        <images>
+          <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
+          <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+          <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+          <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+          <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+          <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+          <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+          <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+        </images>
+      </page>
+      <page name="Muokkaa E-laskua" ID="9ACA7FF7-CBF3-45C4-A694-84F40EFAF072" expanded="True" code="JhNEABFbhg" thumbCode="JhNEABFbhg" status="psWhite">
+        <images>
+          <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
+          <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+          <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+          <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+          <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+          <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+          <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+          <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+        </images>
+      </page>
+      <page name="Historia E-laskut" ID="6FF4B8D0-0093-4F51-9043-DE9FF072E5EF" expanded="True" code="6RaCJn1l6g" thumbCode="6RaCJn1l6g" status="psWhite">
+        <images>
+          <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
+          <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+          <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+          <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+          <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+          <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+          <image key="174DDA6EA0625ECE503B6EAC65F79679.svg"/>
+          <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+          <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+        </images>
+      </page>
+    </page>
+  </modules>
+  <masters>
+    <master name="Master2" ID="75F250AF-B58C-4516-9F99-39D07490C592" status="psWhite" createDate="2017-02-20 01:48:15">
+      <refPages/>
+      <images>
+        <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+        <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+        <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+      </images>
+    </master>
+  </masters>
+  <images>
+    <image key="B38957D1DD25D9AB56F0314624C31EEE.png"/>
+    <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
+    <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
+    <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+    <image key="532E79E95DDD57ABA206C2D19E9CB7F2.png"/>
+    <image key="C90A2F659EFAB4C9CF5DD5EDFC58ECCD.png"/>
+    <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+    <image key="4ACA24AF4DE476255B58E23023D324F1.png"/>
+    <image key="174DDA6EA0625ECE503B6EAC65F79679.svg"/>
+    <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
+    <image key="C3E2977FC40DAEFBC44FD1E53166AF20.svg"/>
+    <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
+    <image key="C85367815F1981FACEDDC73E5B53EABD.png"/>
+    <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
+    <image key="EBAFC47D873479552A2B1289A226213E.png"/>
+  </images>
+</project>

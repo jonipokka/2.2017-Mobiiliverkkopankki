@@ -1677,12 +1677,12 @@
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
-            <area shape="0" alt="" ID="{0D86FA7C-D3B9-4C50-9B92-EDB051649011}" coords="(0,0,1200,1920)"/>
+            <area shape="0" alt="" ID="{0D86FA7C-D3B9-4C50-9B92-EDB051649011}" coords="(0,0,46,46)"/>
           </link>
         </links>
         <interactiveData>
           <entry title="">
-            <area shape="0" alt="" ID="{B634CE02-4A08-46D6-927E-48164C9B79B2}" coords="(0,0,1200,1920)"/>
+            <area shape="0" alt="" ID="{B634CE02-4A08-46D6-927E-48164C9B79B2}" coords="(0,0,46,46)"/>
             <events title=""/>
           </entry>
         </interactiveData>

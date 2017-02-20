@@ -77,7 +77,7 @@
         <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
         <image key="EBAFC47D873479552A2B1289A226213E.png"/>
       </images>
-      <page name="Vahvista maksu" ID="694CAFFE-5108-45AA-92E2-2C46D242C436" expanded="True" code="KjCnpwrPGo" thumbCode="j4VajeflhU" isLastOpen="True" status="psWhite">
+      <page name="Vahvista maksu" ID="694CAFFE-5108-45AA-92E2-2C46D242C436" expanded="True" code="KjCnpwrPGo" thumbCode="KjCnpwrPGo" status="psWhite">
         <images>
           <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
           <image key="C3E2977FC40DAEFBC44FD1E53166AF20.svg"/>
@@ -102,7 +102,7 @@
         </images>
       </page>
     </page>
-    <page name="Hallinta" ID="7C848527-4B31-45A7-8129-683ACD86E1C9" expanded="True" code="Cp57Cn6My6" thumbCode="vbag6hDMrg" status="psWhite">
+    <page name="Hallinta" ID="7C848527-4B31-45A7-8129-683ACD86E1C9" expanded="True" code="x9D8HCIq2f" thumbCode="vbag6hDMrg" isLastOpen="True" status="psWhite">
       <images>
         <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
         <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>

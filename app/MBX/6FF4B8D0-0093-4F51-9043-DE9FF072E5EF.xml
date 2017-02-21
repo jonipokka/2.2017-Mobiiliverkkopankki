@@ -405,7 +405,7 @@
         <verticalScrollbarProgress>0</verticalScrollbarProgress>
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
-        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="3E70FF15-763D-4ABF-92F7-4199A0EE6462" linkType="ltPageLink" isApplyIncludePage="False" title="E-Laskut">
             <area shape="0" alt="" ID="{30920718-D62B-4943-A59C-0CE4D0014AA2}" coords="(0,0,468,96)"/>
           </link>

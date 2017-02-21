@@ -108,7 +108,7 @@
         <verticalScrollbarProgress>0</verticalScrollbarProgress>
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
-        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="EA9BAA03-FDE0-4419-905E-E7641D61BC7D" linkType="ltPageLink" isApplyIncludePage="False" title="Uusi+yhteystieto">
             <area shape="0" alt="" ID="{30920718-D62B-4943-A59C-0CE4D0014AA2}" coords="(0,0,468,96)"/>
           </link>
@@ -1388,7 +1388,7 @@
         <verticalScrollbarProgress>0</verticalScrollbarProgress>
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
-        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="7C848527-4B31-45A7-8129-683ACD86E1C9" linkType="ltPageLink" isApplyIncludePage="False" title="Hallinta">
             <area shape="0" alt="" ID="{30920718-D62B-4943-A59C-0CE4D0014AA2}" coords="(0,0,468,96)"/>
           </link>

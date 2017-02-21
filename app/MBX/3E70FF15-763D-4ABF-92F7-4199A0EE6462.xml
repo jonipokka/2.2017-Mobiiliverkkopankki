@@ -1055,7 +1055,7 @@
         <verticalScrollbarProgress>0</verticalScrollbarProgress>
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
-        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="6FF4B8D0-0093-4F51-9043-DE9FF072E5EF" linkType="ltPageLink" isApplyIncludePage="False" title="Historia+E-laskut">
             <area shape="0" alt="" ID="{30920718-D62B-4943-A59C-0CE4D0014AA2}" coords="(0,0,529,96)"/>
           </link>

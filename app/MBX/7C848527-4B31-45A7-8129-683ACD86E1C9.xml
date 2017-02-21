@@ -1421,7 +1421,7 @@
         <verticalScrollbarProgress>0</verticalScrollbarProgress>
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
-        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="694CAFFE-5108-45AA-92E2-2C46D242C436" linkType="ltPageLink" isApplyIncludePage="False" title="Vahvista+maksu">
             <area shape="0" alt="" ID="{30920718-D62B-4943-A59C-0CE4D0014AA2}" coords="(0,0,427,88)"/>
           </link>
@@ -1523,7 +1523,7 @@
         <verticalScrollbarProgress>0</verticalScrollbarProgress>
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
-        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="5CF8C861-A129-4EE7-B4A8-FDE5DA26EE38" linkType="ltPageLink" isApplyIncludePage="False" title="Yhteystiedot">
             <area shape="0" alt="" ID="{30920718-D62B-4943-A59C-0CE4D0014AA2}" coords="(0,0,427,88)"/>
           </link>

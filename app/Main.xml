@@ -14,7 +14,7 @@
         <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
       </images>
     </page>
-    <page name="Päänäkymä" ID="6F7CCCC1-F43A-434A-9F93-4033A322CDAC" expanded="True" code="HueTkgfX49" thumbCode="NH24FLyZAk" status="psWhite">
+    <page name="Päänäkymä" ID="6F7CCCC1-F43A-434A-9F93-4033A322CDAC" expanded="True" code="HueTkgfX49" thumbCode="HueTkgfX49" status="psWhite">
       <images>
         <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
         <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
@@ -40,7 +40,7 @@
         </images>
       </page>
     </page>
-    <page name="Päänäkymä Luotto" ID="87C75412-B741-4C12-A72F-8497798B5047" expanded="True" code="mqNpzCuXVX" thumbCode="9lnUIGIsiT" status="psWhite">
+    <page name="Päänäkymä Luotto" ID="87C75412-B741-4C12-A72F-8497798B5047" expanded="True" code="mqNpzCuXVX" thumbCode="mqNpzCuXVX" status="psWhite">
       <images>
         <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
         <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
@@ -66,7 +66,7 @@
         </images>
       </page>
     </page>
-    <page name="Uusi Maksu" ID="99CD03DC-7039-4329-93B7-2674B27C45C3" expanded="True" code="dgJnuswMuH" thumbCode="84Xopy2xpt" status="psWhite">
+    <page name="Uusi Maksu" ID="99CD03DC-7039-4329-93B7-2674B27C45C3" expanded="True" code="CvOpYuS2Wo" thumbCode="CvOpYuS2Wo" status="psWhite">
       <images>
         <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
         <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
@@ -77,7 +77,7 @@
         <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
         <image key="EBAFC47D873479552A2B1289A226213E.png"/>
       </images>
-      <page name="Vahvista maksu" ID="694CAFFE-5108-45AA-92E2-2C46D242C436" expanded="True" code="eO85VfsFZF" thumbCode="eO85VfsFZF" isLastOpen="True" status="psWhite">
+      <page name="Vahvista maksu" ID="694CAFFE-5108-45AA-92E2-2C46D242C436" expanded="True" code="eO85VfsFZF" thumbCode="eO85VfsFZF" status="psWhite">
         <images>
           <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
           <image key="C3E2977FC40DAEFBC44FD1E53166AF20.svg"/>
@@ -104,7 +104,7 @@
         </images>
       </page>
     </page>
-    <page name="Hallinta" ID="7C848527-4B31-45A7-8129-683ACD86E1C9" expanded="True" code="NJXMWAvoFc" thumbCode="qGyB5gWHsy" status="psWhite">
+    <page name="Hallinta" ID="7C848527-4B31-45A7-8129-683ACD86E1C9" expanded="True" code="KvpSyz8hau" thumbCode="lEJ3hvQJs1" status="psWhite">
       <images>
         <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
         <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
@@ -115,7 +115,7 @@
         <image key="EBAFC47D873479552A2B1289A226213E.png"/>
         <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
       </images>
-      <page name="Yhteystiedot" ID="5CF8C861-A129-4EE7-B4A8-FDE5DA26EE38" expanded="True" code="ryM3DR4tm4" thumbCode="6XjWIO86ih" status="psWhite">
+      <page name="Yhteystiedot" ID="5CF8C861-A129-4EE7-B4A8-FDE5DA26EE38" expanded="True" code="ilQgkReL6P" thumbCode="NXMuFdCdUO" status="psWhite">
         <images>
           <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
           <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
@@ -129,7 +129,7 @@
           <image key="EBAFC47D873479552A2B1289A226213E.png"/>
           <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
         </images>
-        <page name="Muokkaa yhteystietoa" ID="07C65BDD-CB33-495A-B446-DDBAC79CD7DF" expanded="True" code="2jrocUQvzO" thumbCode="k8npFZHDOJ" status="psWhite">
+        <page name="Muokkaa yhteystietoa" ID="07C65BDD-CB33-495A-B446-DDBAC79CD7DF" expanded="True" code="RYOrspSIme" thumbCode="RYOrspSIme" status="psWhite">
           <images>
             <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
             <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
@@ -140,7 +140,7 @@
             <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
           </images>
         </page>
-        <page name="Uusi yhteystieto" ID="EA9BAA03-FDE0-4419-905E-E7641D61BC7D" expanded="True" code="pgnMnDwMqP" thumbCode="pgnMnDwMqP" status="psWhite">
+        <page name="Uusi yhteystieto" ID="EA9BAA03-FDE0-4419-905E-E7641D61BC7D" expanded="True" code="ZmKOKWeMMY" thumbCode="ZmKOKWeMMY" status="psWhite">
           <images>
             <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
             <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>
@@ -153,7 +153,7 @@
         </page>
       </page>
     </page>
-    <page name="E-Laskut" ID="3E70FF15-763D-4ABF-92F7-4199A0EE6462" expanded="True" code="3OtQFoo2hQ" thumbCode="NZOfzE461d" status="psWhite">
+    <page name="E-Laskut" ID="3E70FF15-763D-4ABF-92F7-4199A0EE6462" expanded="True" code="TA3MpKCIsG" thumbCode="1LWjvIomzY" status="psWhite">
       <images>
         <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
         <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
@@ -167,7 +167,7 @@
         <image key="EBAFC47D873479552A2B1289A226213E.png"/>
         <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
       </images>
-      <page name="Historia E-laskut" ID="6FF4B8D0-0093-4F51-9043-DE9FF072E5EF" expanded="True" code="OLMIdKycPO" thumbCode="OLMIdKycPO" status="psWhite">
+      <page name="Historia E-laskut" ID="6FF4B8D0-0093-4F51-9043-DE9FF072E5EF" expanded="True" code="G9dhXhzyrL" thumbCode="G9dhXhzyrL" isLastOpen="True" status="psWhite">
         <images>
           <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
           <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>

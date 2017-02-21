@@ -72,7 +72,7 @@
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmPushLeft" animateAutoDelay="0" animateDuration="500">
-          <link targetPageID="99CD03DC-7039-4329-93B7-2674B27C45C3" linkType="ltPageLink" isApplyIncludePage="False" title="Uusi+Maksu">
+          <link targetPageID="694CAFFE-5108-45AA-92E2-2C46D242C436" linkType="ltPageLink" isApplyIncludePage="False" title="Vahvista+maksu">
             <area shape="0" alt="" ID="{8E02A9DF-6D1D-4CD4-A9F0-741AFC41EFA2}" coords="(0,0,160,160)"/>
           </link>
         </links>
@@ -661,7 +661,7 @@
         </interactiveData>
         <textSet textColor="4294967295" textSize="32" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="38" textStyles="[fsBold]" useDefaultTextSize="False">
           <font family="Lato" displayName="Lato+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
-          <text>LIS%C3%84%C3%84+TAPAHTUMIA</text>
+          <text>MAKSUHISTORIA</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
         <selectedColor>4282501083</selectedColor>

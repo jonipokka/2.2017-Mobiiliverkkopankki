@@ -66,7 +66,7 @@
         </images>
       </page>
     </page>
-    <page name="Uusi Maksu" ID="99CD03DC-7039-4329-93B7-2674B27C45C3" expanded="True" code="8WDxsUxBRv" thumbCode="84Xopy2xpt" status="psWhite">
+    <page name="Uusi Maksu" ID="99CD03DC-7039-4329-93B7-2674B27C45C3" expanded="True" code="dgJnuswMuH" thumbCode="84Xopy2xpt" status="psWhite">
       <images>
         <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
         <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
@@ -77,7 +77,7 @@
         <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
         <image key="EBAFC47D873479552A2B1289A226213E.png"/>
       </images>
-      <page name="Vahvista maksu" ID="694CAFFE-5108-45AA-92E2-2C46D242C436" expanded="True" code="EMp8lbMiAA" thumbCode="l3eEzfC5M1" isLastOpen="True" status="psWhite">
+      <page name="Vahvista maksu" ID="694CAFFE-5108-45AA-92E2-2C46D242C436" expanded="True" code="eO85VfsFZF" thumbCode="eO85VfsFZF" isLastOpen="True" status="psWhite">
         <images>
           <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
           <image key="C3E2977FC40DAEFBC44FD1E53166AF20.svg"/>
@@ -90,7 +90,7 @@
           <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
         </images>
       </page>
-      <page name="Vahvista maksu2" ID="664FAEA8-BECB-4CFE-951C-3AF818766084" expanded="True" code="Tds4H27gQS" thumbCode="Tds4H27gQS" status="psWhite">
+      <page name="Vahvista maksu2" ID="664FAEA8-BECB-4CFE-951C-3AF818766084" expanded="True" code="8npzC1avZ9" thumbCode="8npzC1avZ9" status="psWhite">
         <images>
           <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
           <image key="C3E2977FC40DAEFBC44FD1E53166AF20.svg"/>
@@ -104,7 +104,7 @@
         </images>
       </page>
     </page>
-    <page name="Hallinta" ID="7C848527-4B31-45A7-8129-683ACD86E1C9" expanded="True" code="XJprXGnNSU" thumbCode="qGyB5gWHsy" status="psWhite">
+    <page name="Hallinta" ID="7C848527-4B31-45A7-8129-683ACD86E1C9" expanded="True" code="NJXMWAvoFc" thumbCode="qGyB5gWHsy" status="psWhite">
       <images>
         <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
         <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
@@ -115,7 +115,7 @@
         <image key="EBAFC47D873479552A2B1289A226213E.png"/>
         <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
       </images>
-      <page name="Yhteystiedot" ID="5CF8C861-A129-4EE7-B4A8-FDE5DA26EE38" expanded="True" code="HSsrF9evKj" thumbCode="6XjWIO86ih" status="psWhite">
+      <page name="Yhteystiedot" ID="5CF8C861-A129-4EE7-B4A8-FDE5DA26EE38" expanded="True" code="ryM3DR4tm4" thumbCode="6XjWIO86ih" status="psWhite">
         <images>
           <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
           <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
@@ -129,7 +129,7 @@
           <image key="EBAFC47D873479552A2B1289A226213E.png"/>
           <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
         </images>
-        <page name="Muokkaa yhteystietoa" ID="07C65BDD-CB33-495A-B446-DDBAC79CD7DF" expanded="True" code="k8npFZHDOJ" thumbCode="k8npFZHDOJ" status="psWhite">
+        <page name="Muokkaa yhteystietoa" ID="07C65BDD-CB33-495A-B446-DDBAC79CD7DF" expanded="True" code="2jrocUQvzO" thumbCode="k8npFZHDOJ" status="psWhite">
           <images>
             <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
             <image key="18E9BAFFB210BB96FED42AB3039EFCEE.png"/>

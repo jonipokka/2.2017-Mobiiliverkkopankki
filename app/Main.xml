@@ -14,7 +14,7 @@
         <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
       </images>
     </page>
-    <page name="Päänäkymä" ID="6F7CCCC1-F43A-434A-9F93-4033A322CDAC" expanded="True" code="OGVSiEKwUw" thumbCode="OGVSiEKwUw" status="psWhite">
+    <page name="Päänäkymä" ID="6F7CCCC1-F43A-434A-9F93-4033A322CDAC" expanded="True" code="NH24FLyZAk" thumbCode="NH24FLyZAk" isLastOpen="True" status="psWhite">
       <images>
         <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
         <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
@@ -40,7 +40,7 @@
         </images>
       </page>
     </page>
-    <page name="Päänäkymä Luotto" ID="87C75412-B741-4C12-A72F-8497798B5047" expanded="True" code="ujkAKzSFWA" thumbCode="kvKkLFjLNd" status="psWhite">
+    <page name="Päänäkymä Luotto" ID="87C75412-B741-4C12-A72F-8497798B5047" expanded="True" code="VxlCWkcgNr" thumbCode="VxlCWkcgNr" status="psWhite">
       <images>
         <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
         <image key="8BFF65D62DCE30D1D1CBCC0024F315FD.png"/>
@@ -90,7 +90,7 @@
           <image key="6DF9642B2DEF4E52DAB76BC1DD88976A.png"/>
         </images>
       </page>
-      <page name="Vahvista maksu2" ID="664FAEA8-BECB-4CFE-951C-3AF818766084" expanded="True" code="Tds4H27gQS" thumbCode="Tds4H27gQS" isLastOpen="True" status="psWhite">
+      <page name="Vahvista maksu2" ID="664FAEA8-BECB-4CFE-951C-3AF818766084" expanded="True" code="Tds4H27gQS" thumbCode="Tds4H27gQS" status="psWhite">
         <images>
           <image key="35E0B99DBE85BC8CC26D95EAD50E0310.png"/>
           <image key="C3E2977FC40DAEFBC44FD1E53166AF20.svg"/>

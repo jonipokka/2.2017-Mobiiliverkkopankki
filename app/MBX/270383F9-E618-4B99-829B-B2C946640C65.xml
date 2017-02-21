@@ -868,7 +868,7 @@
         <verticalScrollbarProgress>0</verticalScrollbarProgress>
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
-        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="6F7CCCC1-F43A-434A-9F93-4033A322CDAC" linkType="ltPageLink" isApplyIncludePage="False" title="P%C3%A4%C3%A4n%C3%A4kym%C3%A4">
             <area shape="0" alt="" ID="{30920718-D62B-4943-A59C-0CE4D0014AA2}" coords="(0,0,468,96)"/>
           </link>

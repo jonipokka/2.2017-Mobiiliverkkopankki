@@ -434,7 +434,7 @@
         <verticalScrollbarProgress>0</verticalScrollbarProgress>
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
-        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="87C75412-B741-4C12-A72F-8497798B5047" linkType="ltPageLink" isApplyIncludePage="False" title="P%C3%A4%C3%A4n%C3%A4kym%C3%A4+Luotto">
             <area shape="0" alt="" ID="{30920718-D62B-4943-A59C-0CE4D0014AA2}" coords="(0,0,468,96)"/>
           </link>

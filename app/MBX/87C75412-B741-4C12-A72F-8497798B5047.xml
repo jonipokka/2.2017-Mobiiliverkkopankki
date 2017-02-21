@@ -527,7 +527,7 @@
         <verticalScrollbarProgress>0</verticalScrollbarProgress>
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
-        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="01DAE169-B26D-4F6B-BF46-BE177D1F4644" linkType="ltPageLink" isApplyIncludePage="False" title="P%C3%A4%C3%A4n%C3%A4kym%C3%A4+Luotto+-+Lis%C3%A4%C3%A4+tapahtumia">
             <area shape="0" alt="" ID="{30920718-D62B-4943-A59C-0CE4D0014AA2}" coords="(0,0,386,71)"/>
           </link>
